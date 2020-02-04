@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29eec973-a298-4f44-9e25-e2b15bab34a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/assets/speaker-phone-1431953_960_720.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Advertisement.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/com/relation/backend/Advt/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/com/relation/backend/Advt/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/com/relation/backend/Advt/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/com/relation/backend/SpringBootVueApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Project_New1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/docter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/client/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Controller/DayController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Controller/EmployeeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Controller/RoomController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Controller/ScheduleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Controller/TimeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Entity/Day.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Entity/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Entity/Schedule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Entity/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Repository/DayRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Repository/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Repository/RoomRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Repository/ScheduleRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/Repository/TimeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/SpringBootVueApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/bin/main/com/okta/springbootvue/SpringBootVueApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Controller/DayController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Controller/RoomController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Controller/ScheduleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Controller/TimeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Entity/Day.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Entity/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Entity/Schedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Entity/Time.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Repository/DayRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Repository/RoomRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Repository/ScheduleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/Repository/TimeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/okta/springbootvue/SpringBootVueApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RSEAeofPzZcBEu82FB3m9vd1tG" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SA\Projectnew\server\src\main\java\com\relation\backend\Advt" />
+      <recent name="D:\SA\Projectnew\client\src\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29eec973-a298-4f44-9e25-e2b15bab34a2" name="Default Changelist" comment="" />
+      <created>1569651967783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569651967783</updated>
+      <workItem from="1569652016798" duration="6569000" />
+      <workItem from="1569659742289" duration="5471000" />
+      <workItem from="1569667573435" duration="10418000" />
+      <workItem from="1569687955598" duration="1517000" />
+      <workItem from="1569725157186" duration="3148000" />
+      <workItem from="1569732303121" duration="3551000" />
+      <workItem from="1569738239000" duration="2523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
